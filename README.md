@@ -2,6 +2,8 @@
 
 Website static multipagină pentru prezentarea programelor de dezvoltare emoțională desfășurate în instituții.
 
+Identitatea vizuală folosește fonturile variabile Bricolage Grotesque și Manrope, găzduite local, împreună cu un sprite local extras din Tabler Icons.
+
 ## Fișiere principale
 
 - `index.html` — pagina principală;
