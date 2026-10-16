@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Adăugați Sitemap cu domeniul final înainte de publicare.
