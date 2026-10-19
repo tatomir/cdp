@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 230" role="img" aria-label="Cooperare și încredere pentru școlari">
-  <path fill="#f4c86d" d="M35 164c10-72 66-130 139-143 78-14 150 35 163 113 7 44-25 77-69 77H77c-27 0-46-21-42-47Z"/>
-  <g fill="#fffaf2" stroke="#153f38" stroke-width="4"><circle cx="119" cy="100" r="38"/><circle cx="241" cy="100" r="38"/><path d="M66 198c7-44 42-69 79-69s70 25 77 69H66Z"/><path d="M138 198c7-44 42-69 79-69s70 25 77 69H138Z"/></g>
-  <path fill="none" stroke="#d07a5f" stroke-linecap="round" stroke-width="6" d="M150 78c20-23 43-23 62 0m-78 42c28 27 65 27 93 0"/>
-  <circle cx="108" cy="97" r="5" fill="#153f38"/><circle cx="130" cy="97" r="5" fill="#153f38"/><circle cx="230" cy="97" r="5" fill="#153f38"/><circle cx="252" cy="97" r="5" fill="#153f38"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none"><ellipse cx="144" cy="157" rx="86" ry="93" fill="#d8deb6"/><ellipse cx="258" cy="160" rx="86" ry="93" fill="#aebcc9"/><path stroke="#243e51" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" d="M35 219C69 215 84 187 105 114S217 56 224 139 113 239 111 159 291 42 301 143 235 237 225 175 309 179 365 212"/></svg>

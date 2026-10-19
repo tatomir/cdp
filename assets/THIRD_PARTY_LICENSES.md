@@ -1,11 +1,11 @@
 # Third-party assets
 
-## Bricolage Grotesque
+## Fraunces
 
-- Version: Google Fonts v9, packaged by Fontsource 5.3.0
-- License: SIL Open Font License 1.1
-- Copyright 2022 The Bricolage Grotesque Project Authors
-- Source: https://github.com/ateliertriay/bricolage
+- Version: Google Fonts v38
+- License: SIL Open Font License 1.1; full text in `fonts/Fraunces-OFL.txt`
+- Source: https://github.com/undercasetype/Fraunces
+- Roman and italic, Latin and Latin Extended subsets, hosted locally.
 
 ## Manrope
 

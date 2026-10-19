@@ -1,28 +1,34 @@
 # Website Mari Tatomir
 
-Website static multipagină pentru prezentarea programelor de dezvoltare emoțională desfășurate în instituții.
+Website static multipagină pentru programele educaționale de dezvoltare emoțională din instituții. Fără build sau dependențe JavaScript externe.
 
-Identitatea vizuală folosește fonturile variabile Bricolage Grotesque și Manrope, găzduite local, împreună cu un sprite local extras din Tabler Icons.
+## Design
 
-## Fișiere principale
+Direcție editorială „Emoțiile au loc aici”: portret în prim-plan, ivoire și albastru cerneală, accente de caisă și ilustrații SVG originale construite din linii continue. Fraunces (roman și italic) și Manrope sunt găzduite local, cu subseturi Latin Extended pentru diacriticele românești. Pictogramele funcționale folosesc sprite-ul local Tabler Icons.
 
-- `index.html` — pagina principală;
-- `programe.html` — programe pentru preșcolari, școlari și adolescenți;
-- `institutii.html` — informații pentru grădinițe, școli și centre after-school;
-- `despre.html` — abordare și prezentare;
-- `resurse.html` — conținut educațional;
-- `contact.html` — solicitare de colaborare.
-- `confidentialitate.html` — starea actuală a formularului și cerințele de completat înainte de activare.
+Homepage-ul include un selector accesibil pentru cele trei categorii de vârstă. Fără JavaScript, toate descrierile rămân vizibile. Animația liniilor respectă `prefers-reduced-motion`; conținutul nu depinde de animații pentru a deveni vizibil.
 
-## De completat înainte de publicare
+## Pagini
 
-1. fotografia reală a lui Mari;
-2. formarea, certificările și experiența aprobate pentru publicare;
-3. telefonul, emailul și legătura WhatsApp;
-4. conectarea formularului și informarea privind datele personale;
-5. înlocuirea `example.ro` din `sitemap.xml` cu domeniul final;
-6. fotografii autentice, numai cu drept de publicare.
+- `index.html` — prezentare, programe, exemplu orientativ de activitate, colaborare și resurse;
+- `programe.html` — preșcolari, școlari și adolescenți;
+- `institutii.html` — organizare și informații practice;
+- `despre.html` — portret și abordare;
+- `resurse.html` — articole educaționale;
+- `contact.html` — formularul Web3Forms existent;
+- `confidentialitate.html` — informații despre datele din formular.
 
 ## Vizualizare locală
 
-Deschide `index.html` în browser sau rulează un server static în acest folder.
+Deschide `index.html` sau pornește `python -m http.server 4173 --bind 127.0.0.1` din acest folder și accesează `http://127.0.0.1:4173/`.
+
+## Conținut de completat când este disponibil
+
+- Formarea, certificările și experiența aprobate pentru publicare.
+- Date de contact directe, verificate.
+
+Exemplul de activitate de pe homepage este marcat ca orientativ. Nu sunt prezentate statistici, parteneri sau testimoniale inventate. Destinatarul emailurilor se configurează în Web3Forms; verificările locale nu confirmă livrarea unui email real.
+
+## Sitemap
+
+`sitemap.xml` enumeră cele 7 pagini publice de pe https://cdp-m5ju.onrender.com/ și este declarat în `robots.txt`. La modificarea paginilor, actualizează adresele și datele schimbărilor semnificative. La schimbarea domeniului public, actualizează ambele fișiere.

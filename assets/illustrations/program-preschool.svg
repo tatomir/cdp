@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 230" role="img" aria-label="Joc și poveste pentru preșcolari">
-  <path fill="#dce9de" d="M21 80c27-56 99-78 161-65 69 14 130 69 145 134 7 31-20 59-52 59H60c-47 0-60-84-39-128Z"/>
-  <path fill="#f4c86d" d="m64 165 24-78 48 31 43-70 44 74 57-29 18 72H64Z"/>
-  <path fill="#fffaf2" stroke="#153f38" stroke-width="4" d="M94 137c0-49 39-88 88-88s88 39 88 88v46H94v-46Z"/>
-  <circle cx="145" cy="121" r="7" fill="#153f38"/><circle cx="219" cy="121" r="7" fill="#153f38"/>
-  <path fill="none" stroke="#153f38" stroke-linecap="round" stroke-width="5" d="M154 153c17 13 39 13 56 0"/>
-  <path fill="none" stroke="#d07a5f" stroke-linecap="round" stroke-width="5" d="M48 53c18-17 44-25 69-21m130 2c23 5 43 20 55 40"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none"><ellipse cx="206" cy="172" rx="102" ry="89" fill="#edba94"/><path stroke="#243e51" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" d="M46 239C80 202 121 199 146 137S98 43 111 96 237 143 235 79 181 47 199 98 310 175 306 111 247 98 266 159 200 281 174 220 241 153 286 221 321 244 360 206"/></svg>

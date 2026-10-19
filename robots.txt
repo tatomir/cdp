@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-# Adăugați Sitemap cu domeniul final înainte de publicare.
+Sitemap: https://cdp-m5ju.onrender.com/sitemap.xml
