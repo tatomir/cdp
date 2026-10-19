@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 210" role="img" aria-label="Ascultare și comunicare">
+  <path fill="#f4c86d" d="M20 114C28 39 101 2 180 10c94 9 168 75 160 143-4 34-39 49-82 49H72c-35 0-57-35-52-88Z"/>
+  <path fill="#fffaf2" stroke="#153f38" stroke-width="4" d="M66 87c0-29 23-52 52-52h97c29 0 52 23 52 52s-23 52-52 52h-33l-35 31 6-31h-35c-29 0-52-23-52-52Z"/>
+  <path fill="none" stroke="#153f38" stroke-linecap="round" stroke-width="5" d="M111 76h112m-88 26h64"/>
+  <circle cx="288" cy="157" r="33" fill="#d07a5f" stroke="#153f38" stroke-width="4"/>
+  <path fill="none" stroke="#fffaf2" stroke-linecap="round" stroke-width="5" d="M274 158c8 8 20 8 28 0"/>
+</svg>

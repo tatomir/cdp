@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" role="img" aria-label="Traseul unei colaborări">
+  <path fill="#dce9de" d="M44 94C92 6 219-17 323 16c101 32 180 122 166 219-13 89-106 128-210 111C155 326 4 257 21 154c4-24 11-44 23-60Z"/>
+  <path fill="none" stroke="#153f38" stroke-dasharray="3 15" stroke-linecap="round" stroke-width="5" d="M75 232c66-148 300-160 371-27"/>
+  <g stroke="#153f38" stroke-width="4"><circle cx="79" cy="227" r="28" fill="#fffaf2"/><circle cx="200" cy="107" r="28" fill="#f4c86d"/><circle cx="335" cy="112" r="28" fill="#fffaf2"/><circle cx="445" cy="207" r="28" fill="#d07a5f"/></g>
+  <g fill="none" stroke="#153f38" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"><path d="m65 226 10 10 19-23"/><path d="M187 104h26m-20-10h14m-8 20h8"/><path d="M322 101h26v20h-16l-8 8 2-8h-4v-20Z"/><path d="m433 207 9 9 17-19"/></g>
+</svg>

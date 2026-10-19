@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 330" role="img" aria-label="O conversație despre colaborare">
+  <path fill="#dce9de" d="M38 87C93 8 221-8 321 19c111 31 190 122 168 207-22 87-143 111-258 92C117 299 5 237 18 146c3-23 9-42 20-59Z"/>
+  <path fill="#fffaf2" stroke="#153f38" stroke-width="4" d="M59 86c0-29 24-53 53-53h171c29 0 53 24 53 53s-24 53-53 53h-62l-40 36 7-36h-76c-29 0-53-24-53-53Z"/>
+  <path fill="#f4c86d" stroke="#153f38" stroke-width="4" d="M195 208c0-31 25-56 56-56h157c31 0 56 25 56 56s-25 56-56 56h-52l-39 35 7-35H251c-31 0-56-25-56-56Z"/>
+  <path fill="none" stroke="#153f38" stroke-linecap="round" stroke-width="5" d="M105 76h185m-156 29h126m-17 93h164m-125 30h95"/>
+  <circle cx="86" cy="271" r="12" fill="#d07a5f"/><circle cx="461" cy="63" r="9" fill="#153f38"/>
+</svg>

@@ -34,14 +34,44 @@ const observer = new IntersectionObserver((entries) => {
 document.querySelectorAll(".reveal").forEach((element) => observer.observe(element));
 
 document.querySelectorAll(".form").forEach((form) => {
-  form.addEventListener("submit", (event) => {
+  form.addEventListener("submit", async (event) => {
     event.preventDefault();
     if (!form.checkValidity()) {
       form.reportValidity();
       return;
     }
+
     const status = form.querySelector(".form-status");
-    status.textContent = "Formularul este complet. Trimiterea va fi activată după configurarea datelor de contact.";
+    const submitButton = form.querySelector('button[type="submit"]');
+    const initialButtonText = submitButton.textContent;
+
+    submitButton.disabled = true;
+    submitButton.textContent = "Se trimite…";
+    status.className = "form-status";
+    status.textContent = "Solicitarea se trimite.";
+
+    try {
+      const response = await fetch(form.action, {
+        method: "POST",
+        body: new FormData(form),
+        headers: { Accept: "application/json" },
+      });
+      const result = await response.json();
+
+      if (!response.ok || !result.success) {
+        throw new Error("Submission failed");
+      }
+
+      form.reset();
+      status.classList.add("is-success");
+      status.textContent = "Solicitarea a fost trimisă. Vă mulțumesc!";
+    } catch {
+      status.classList.add("is-error");
+      status.textContent = "Solicitarea nu a putut fi trimisă. Încercați din nou.";
+    } finally {
+      submitButton.disabled = false;
+      submitButton.textContent = initialButtonText;
+    }
   });
 });
 

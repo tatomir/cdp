@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 210" role="img" aria-label="Cooperare și repararea relației">
+  <path fill="#d07a5f" d="M17 123C21 52 86 5 167 8c94 3 176 67 176 137 0 38-36 57-82 57H72c-35 0-58-31-55-79Z"/>
+  <g fill="#fffaf2" stroke="#153f38" stroke-width="4"><circle cx="125" cy="91" r="34"/><circle cx="235" cy="91" r="34"/><path d="M66 202c5-52 36-81 75-81s68 29 73 81H66Z"/><path d="M146 202c5-52 36-81 75-81s68 29 73 81H146Z"/></g>
+  <path fill="none" stroke="#153f38" stroke-linecap="round" stroke-width="5" d="m155 91 25 21 25-21m-91 6h22m88 0h22"/>
+</svg>
