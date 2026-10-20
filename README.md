@@ -4,9 +4,9 @@ Website static multipagină pentru programele educaționale de dezvoltare emoți
 
 ## Design
 
-Direcție editorială „Emoțiile au loc aici”: portret în prim-plan, ivoire și albastru cerneală, accente de caisă și ilustrații SVG originale construite din linii continue. Fraunces (roman și italic) și Manrope sunt găzduite local, cu subseturi Latin Extended pentru diacriticele românești. Pictogramele funcționale folosesc sprite-ul local Tabler Icons.
+Direcție editorială „Emoțiile au loc aici”: portret în prim-plan, ivoire și albastru cerneală, accente de caisă și ilustrații SVG originale construite din linii continue. Titlurile folosesc Source Serif 4, iar textul și controalele folosesc Manrope. Fonturile sunt găzduite local, cu subseturi Latin Extended pentru diacriticele românești; italicul este rezervat citatelor. Dimensiunile comune sunt definite prin variabile CSS, cu text de 17 px pe desktop și 16 px pe mobil. Pictogramele funcționale folosesc sprite-ul local Tabler Icons.
 
-Homepage-ul include un selector accesibil pentru cele trei categorii de vârstă. Fără JavaScript, toate descrierile rămân vizibile. Animația liniilor respectă `prefers-reduced-motion`; conținutul nu depinde de animații pentru a deveni vizibil.
+Homepage-ul include un selector accesibil pentru cele trei categorii de vârstă. Fără JavaScript, toate descrierile rămân vizibile. Portretul principal nu are linie animată suprapusă. Animația din secțiunea despre activități respectă `prefers-reduced-motion`; conținutul nu depinde de animații pentru a deveni vizibil.
 
 ## Pagini
 

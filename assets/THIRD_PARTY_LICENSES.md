@@ -1,11 +1,11 @@
 # Third-party assets
 
-## Fraunces
+## Source Serif 4
 
-- Version: Google Fonts v38
-- License: SIL Open Font License 1.1; full text in `fonts/Fraunces-OFL.txt`
-- Source: https://github.com/undercasetype/Fraunces
-- Roman and italic, Latin and Latin Extended subsets, hosted locally.
+- Version: Google Fonts v15
+- License: SIL Open Font License 1.1; full text in `fonts/Source-Serif-4-OFL.txt`
+- Source: https://github.com/adobe-fonts/source-serif
+- Roman and italic, Latin and Latin Extended subsets, hosted locally. Italic is reserved for quotations.
 
 ## Manrope
 
