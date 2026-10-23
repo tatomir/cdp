@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cdp-m5ju.onrender.com/sitemap.xml
+Sitemap: https://www.emokid.ro/sitemap.xml

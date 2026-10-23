@@ -31,4 +31,4 @@ Exemplul de activitate de pe homepage este marcat ca orientativ. Nu sunt prezent
 
 ## Sitemap
 
-`sitemap.xml` enumeră cele 7 pagini publice de pe https://cdp-m5ju.onrender.com/ și este declarat în `robots.txt`. La modificarea paginilor, actualizează adresele și datele schimbărilor semnificative. La schimbarea domeniului public, actualizează ambele fișiere.
+`sitemap.xml` enumeră cele 7 pagini publice de pe https://www.emokid.ro/ și este declarat în `robots.txt`. La modificarea paginilor, actualizează adresele și datele schimbărilor semnificative. La schimbarea domeniului public, actualizează ambele fișiere.
